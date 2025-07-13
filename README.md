@@ -10,6 +10,7 @@ I know. People will go against this since it's 'Tutorial Hell' but I won't know 
 Anywho lets get right to it.
 
 <img src="https://github.com/user-attachments/assets/b430e5ae-f494-43dc-bb64-0f60b62b87fd" width="500" />
+
 source: Data with Baraa
 
 This is the roadmap I decided to follow.
