@@ -1,3 +1,5 @@
+>[!NOTE]
+> All the notes are in the [wiki](https://github.com/muchcauliflower/SQL-Journal/wiki) page.
 # SQL-Journal
 This Journal is mainly just for my current SQL progress
 
@@ -16,5 +18,6 @@ source: Data with Baraa
 This is the roadmap I decided to follow.
 
 ## My current Knowledge for SQL (As of July 25)
-- I am unsure for whether or not my current knowledge with sql, SSMS is enough. Hence why i'm restarting
+- I am unsure for whether or not my current knowledge with SSMS is enough. Hence why i'm restarting
+
 
